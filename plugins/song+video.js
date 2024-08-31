@@ -17,7 +17,7 @@ const data = search.videos[0];
 const url = data.url 
 
 let desc = `
-*GHOST-MD SONG DOWNLOADING....*
+*🌟GHOST-MD SONG DOWNLOADING....🌟*
 
 title: ${data.title}
 description :${data.description}
